@@ -7,3 +7,5 @@ Soup spoons and tea spoons separate but still in the same compartment.
 Plastic forks and metal spoons separate but still in the same compartment.
 Metal chopsticks and plastic chopsticks separate but still in the same compartment.
 etc.
+
+
